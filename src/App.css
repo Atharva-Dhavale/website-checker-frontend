@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* added */
+html, body {
+  height: 100%;          /* Ensure the body takes the full height */
+  margin: 0;            /* Remove default margin */
+  padding: 0;           /* Remove default padding */
+  background-image: url("./components/Background.jpeg");
+}
+
+*{
+  background-image: url("./components/Background.jpeg");
+}
